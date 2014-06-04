@@ -10,17 +10,29 @@ The corpus is described in our paper: http://www.lrec-conf.org/proceedings/lrec2
 Should you use the tagging models provided, or any other file from the TALC-sef project, please cite:
 
 @InProceedings{BALVET14.755,
+
   author = {Antonio Balvet and Dejan Stosic and Aleksandra Miletic},
+
   title = {TALC-Sef a Manually-revised POS-Tagged Literary Corpus in Serbian, English and French},
+
   booktitle = {Proceedings of the Ninth International Conference on Language Resources and Evaluation (LREC'14)},
+
   year = {2014},
+
   month = {may},
+
   date = {26-31},
+
   address = {Reykjavik, Iceland},
+
   editor = {Nicoletta Calzolari (Conference Chair) and Khalid Choukri and Thierry Declerck and Hrafn Loftsson and Bente Maegaard and Joseph Mariani and Asuncion Moreno and Jan Odijk and Stelios Piperidis},
+
   publisher = {European Language Resources Association (ELRA)},
+
   isbn = {978-2-9517408-8-4},
+
   language = {english}
+
  }
 
 ---
